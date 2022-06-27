@@ -6,7 +6,8 @@ THİS PROJECT İS FULLY DIY AND OPEN SO YOU CAN ACCSESS ALL THE FİLES DOWN BELO
 I made it by setting checkpoints to the map and the alghoritm of the main code finds out which way that ships have to turn its direction and it goes direcly 
 that checkpoint. After that it goes for his new checkpoint.
 
-This is the rc ship that i design:![Ekran görüntüsü 2022-06-27 155703](https://user-images.githubusercontent.com/60060887/175946997-672b38c1-63eb-4b6d-a39c-d6e56f431773.png)
+This is the rc ship that i design:
+![Ekran görüntüsü 2022-06-27 155703](https://user-images.githubusercontent.com/60060887/175946997-672b38c1-63eb-4b6d-a39c-d6e56f431773.png)
 
 
 
